@@ -1,0 +1,15 @@
+Source: usbwall
+Section: main/utils
+Priority: optional
+Maintainer: Sylvain Leroy <sylvain@unmondelibre.fr>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.3
+Homepage: http://github.com/Oline/usbwall
+Vcs-Git: git://github.com/Oline/usbwall.git
+
+Package: usbwall
+Architecture: all
+Depends: ${misc:Depends}, libpam, libldap, libusb
+Description: FIXME
+ FIXME commandes
+ d. .

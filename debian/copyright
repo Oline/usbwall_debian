@@ -1,0 +1,40 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: ISYS/thales-igc
+Copyright: 2014-2015 THALES. All rights reserved.
+License: MOI
+
+Files: *
+Copyright: 2014-2015 THALES. All rights reserved.
+License: MOI
+
+Files: debian/*
+Copyright: 2014-2015 THALES. All rights reserved.
+License: MOI
+
+License: MOI
+ Copyright 2014-2015 THALES. Tous droits réservés.
+ .
+ Ce paquet ainsi que les sources, binaires, documents et les informations 
+ qu'ils contiennent sont la propriété exclusive du groupe THALES et sont 
+ strictement confidentielles. Ils ne peuvent être communiqués qu'aux seules 
+ personnes ayant à les connaître pour les besoins expressément agréés avec 
+ THALES et ne peuvent être reproduits, ni divulgués, à toutes autres personnes 
+ sans l'autorisation préalable expresse de THALES.
+ .
+ Les informations contenues dans ces sources, binaires et documents demeurent 
+ la propriété exclusive du groupe THALES et ne doivent pas être divulguées à 
+ l'extérieur du Groupe.
+ .
+ -----
+ .
+ Copyright 2014-2015 THALES. All right reserved.
+ .
+ This package well as the sources, binaries, documents and the information they
+ contains are the exclusive property of THALES and are strictly confifential. 
+ They can only be diclosed to the person(s) who have a need to know for the 
+ purpose expressly aggreed upon with THALES and shall not be disclosed to other
+ persons nor reproduced without the prior express consent of THALES.
+ .
+ All information contained in this sources, binaries and documents remains the 
+ sole and exclusive property of the THALES group and shall not be disclosed 
+ outside the Group.

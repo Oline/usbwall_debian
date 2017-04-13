@@ -1,0 +1,11 @@
+etc/thales-igc.cnf
+usr/sbin/thales-igc
+usr/lib/thales/igc/initpki
+usr/lib/thales/igc/export
+usr/lib/thales/igc/lscerts
+usr/lib/thales/igc/revoke
+usr/lib/thales/igc/mkcerts
+usr/lib/thales/igc/gencrl
+usr/share/thales/igc/acd.cnf
+usr/share/thales/igc/acr.cnf
+
